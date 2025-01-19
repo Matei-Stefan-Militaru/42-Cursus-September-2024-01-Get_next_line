@@ -1,0 +1,14 @@
+Primera línea del archivo.
+Segunda línea del archivo.
+Esta es una línea mucho más larga que las anteriores, con más texto para asegurarnos de que el buffer pueda manejar contenido extenso. Aquí estamos probando cómo se comporta el programa cuando hay líneas largas de texto.
+Cuarta línea, de longitud normal.
+Una línea con contenido intermedio para asegurar que el comportamiento sea consistente entre líneas de diferentes longitudes.
+Otra línea más para hacer más largo el archivo y probar con una cantidad más significativa de texto.
+Línea con números: 1234567890.
+Línea vacía.
+
+Y aquí hay una línea final con mucho contenido para simular un archivo muy largo. Este archivo tiene suficientes líneas y texto para probar cómo se comporta la función de lectura y cómo se maneja la memoria. 
+Cuando lleguemos al final de este archivo, se habrá comprobado que el código puede manejar archivos grandes sin problema.
+
+FIN DEL ARCHIVO
+

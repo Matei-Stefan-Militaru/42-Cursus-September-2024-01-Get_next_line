@@ -1,0 +1,24 @@
+Hola, esta es la primera línea.
+Segunda línea del archivo 1.
+Última línea del archivo 1.
+
+
+
+Esto es el archivo número dos.
+Tiene algunas líneas también.
+Como la segunda línea.
+
+vada
+
+El tercer archivo.
+Está aquí para probar.
+Con más líneas.
+
+
+1
+1
+1222
+
+332131
+
+
